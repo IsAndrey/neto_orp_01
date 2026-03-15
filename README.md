@@ -2,7 +2,7 @@
 ## Конструкция "for ... in"
 ```
 npm install
-npm test -- --coverage
+npm test
 npm run lint
 npm run build
 ```
